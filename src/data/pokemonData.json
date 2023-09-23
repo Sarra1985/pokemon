@@ -1,0 +1,64 @@
+{
+    "pokemons": [
+        {
+            "id": 1,
+            "name": "Bulbizarre",
+            "info": "Il a une étrange graine plantée sur son dos. Elle grandit avec lui depuis la naissance.",
+            "picture": "./media/bulbizarre.png"
+        },
+        {
+            "id": 2,
+            "name": "Salamèche",
+            "info": "Il préfère les endroits chauds. En cas de pluie, de la vapeur se forme autour de sa queue.",
+            "picture": "./media/salameche.png"
+        },
+        {
+            "id": 3,
+            "name": "Carapuce",
+            "info": "Son dos durcit avec l'âge et devient une super carapace. Il peut cracher des jets d'écume.",
+            "picture": "./media/carapuce.png"
+        },
+        {
+            "id": 4,
+            "name": "Aspicot",
+            "info": "Il se nourrit de feuilles dans les forêts. L'aiguillon sur son front est empoisonné..",
+            "picture": "./media/aspicot.png"
+        },
+        {
+            "id": 5,
+            "name": "Roucool",
+            "info": "Il est souvent vu dans les forêts. Il brasse l'air de ses ailes près du sol pour projeter du sable.",
+            "picture": "./media/roucool.png"
+        },
+        {
+            "id": 6,
+            "name": "Rattata",
+            "info": "Sa morsure est très puissante. Petit et rapide, on en voit un peu partout.",
+            "picture": "./media/rattata.png"
+        },
+        {
+            "id": 7,
+            "name": "Piafabec",
+            "info": "Il chasse les insectes dans les hautes-herbes. Ses petites ailes lui permettent de voler très vite.",
+            "picture": "./media/piafabec.png"
+        },
+        {
+            "id": 8,
+            "name": "Abo",
+            "info": "Il se déplace en silence pour dévorer des œufs de Roucool ou de Piafabec.",
+            "picture": "./media/abo.png"
+        },
+        {
+            "id": 9,
+            "name": "Pikachu",
+            "info": "Quand plusieurs de ces Pokémon se réunissent, ils provoquent de gigantesques orages.",
+            "picture": "./media/pikachu.png"
+        },
+        {
+            "id": 10,
+            "name": "Sabelette",
+            "info": "Il s'enterre dans les régions arides et désertiques. Il émerge seulement pour chasser.",
+            "picture": "./media/sabelette.png"
+        }
+    ]
+}
